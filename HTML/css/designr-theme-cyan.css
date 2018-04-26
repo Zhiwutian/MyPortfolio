@@ -384,13 +384,13 @@ header.jumbotron{
     display:inline-block;
     margin:0;
     padding:18px 5px 12px 30px;
-    font-size:38px;
+    font-size:32px;
     font-weight:300;
     line-height:48px;
 }
 
 .jumbotron .left-col p span{
-    font-size:42px;
+    font-size:40px;
     font-weight:400;
 }
 
